@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Arina Shilyaeva
+# 👋 Hi, I'm Arina
 
 🚀 Senior Backend Engineer (Go / Node.js)  
 🧠 Building scalable systems, AI platforms & microservices  
