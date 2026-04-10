@@ -116,4 +116,4 @@ Backend developer with strong experience building and maintaining **production-g
 ## 🌍 Connect with Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/arina-shilyaeva/
-- 🐙 GitHub: https://github.com/arinashilyaeva/
+- 🐙 Telegram: @arinaward
