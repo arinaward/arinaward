@@ -97,7 +97,6 @@ Backend developer with strong experience building and maintaining **production-g
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arinashilyaeva&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arinashilyaeva&theme=tokyonight" />
 </p>
 
